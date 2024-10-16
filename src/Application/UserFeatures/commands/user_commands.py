@@ -1,0 +1,1 @@
+# CQRS - Commands (e.g., CreateUserCommand)

@@ -1,0 +1,1 @@
+# CQRS - Queries (e.g., GetUserQuery)
